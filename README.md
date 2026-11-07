@@ -17,7 +17,9 @@ Menyimpan rekam jejak pengembangan aplikasi web perencana tugas (Student Task Pl
 Informasi Kegiatan Workshop
 
 Nama Kegiatan: EXPECTIK PNJ Day 1 - Proyek Workshop
+
 Topik Utama: Building with AI, Managing Change with GitHub
+
 Pemateri: Nugi Farhan
 
 Ringkasan Materi Workshop:Prompt Engineering: Mempelajari cara merancang instruksi (prompt) yang spesifik dan efektif kepada AI menggunakan struktur yang baik (Role, Task, Context, Constraints, Format) untuk menghasilkan kode aplikasi yang akurat.Git & GitHub Basics:Mengenal perbedaan antara Git (sistem kontrol versi lokal) dan GitHub (platform web untuk penyimpanan repositori online).Memahami alur kerja Git (Working Directory $\rightarrow$ Staging Area $\rightarrow$ Local Repository).Mempraktikkan perintah esensial Git seperti git init, git add, git commit, git remote add, dan git push.
