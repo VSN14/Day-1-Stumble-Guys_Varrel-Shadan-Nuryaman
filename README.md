@@ -1,4 +1,4 @@
-##1. Identitas Peserta
+## 1. Identitas Peserta
 
 Nama Lengkap: Varrel Shadan Nuryaman
 
@@ -7,19 +7,19 @@ Program Studi: D4 Teknik Informatika
 Kelompok : 14 - Stumble Guys 
 
 
-##2. Repository
+## 2. Repository
 
 Repository ini merupakan dokumentasi dari proyek pengerjaan aplikasi web sederhana bernama "Student Task Planner" serta catatan pembelajaran dari kegiatan workshop teknologi. Di dalam repository ini terdapat implementasi penggunaan kecerdasan buatan (AI-assisted platform) untuk menghasilkan kode program, serta penerapan version control system menggunakan Git dan GitHub.
 
 
-##3. Tujuan Kegunaan Repository
+## 3. Tujuan Kegunaan Repository
 
 Memenuhi penugasan proyek workshop dan praktik manajemen perubahan kode (version controlling).
 Mendemonstrasikan pemahaman dasar mengenai penggunaan Git (init, add, commit, push, remote) dan kolaborasi online melalui GitHub.
 Menyimpan rekam jejak pengembangan aplikasi web perencana tugas (Student Task Planner) berbasis HTML, CSS, dan Vanilla JavaScript.
 
 
-##4. Informasi Kegiatan Workshop
+## 4. Informasi Kegiatan Workshop
 
 Nama Kegiatan: EXPECTIK PNJ Day 1 - Proyek Workshop
 
@@ -28,7 +28,7 @@ Topik Utama: Building with AI, Managing Change with GitHub
 Pemateri: Nugi Farhan
 
 
-##5. Ringkasan Materi Workshop 
+## 5. Ringkasan Materi Workshop 
 
 Prompt Engineering: Mempelajari cara merancang instruksi prompt yang spesifik dan efektif kepada AI menggunakan struktur yang baik Role, Task, Context, Constraints, Format untuk menghasilkan kode aplikasi yang akurat. 
 
