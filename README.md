@@ -27,3 +27,8 @@ Pemateri: Nugi Farhan
 
 
 Ringkasan Materi Workshop:Prompt Engineering: Mempelajari cara merancang instruksi (prompt) yang spesifik dan efektif kepada AI menggunakan struktur yang baik (Role, Task, Context, Constraints, Format) untuk menghasilkan kode aplikasi yang akurat.Git & GitHub Basics:Mengenal perbedaan antara Git (sistem kontrol versi lokal) dan GitHub (platform web untuk penyimpanan repositori online).Memahami alur kerja Git (Working Directory Staging Area Local Repository).Mempraktikkan perintah esensial Git seperti git init, git add, git commit, git remote add, dan git push.
+
+
+Pendapat
+
+Membangun Fondasi Karakter dan Profesionalisme: Kegiatan orientasi dan pengenalan kampus seperti PKKMB/PKKP PNJ memiliki peran yang sangat krusial dalam menjembatani transisi mahasiswa baru dari dunia sekolah ke lingkungan pendidikan tinggi vokasi yang menuntut kemandirian, kedisiplinan, dan integritas tinggi.
