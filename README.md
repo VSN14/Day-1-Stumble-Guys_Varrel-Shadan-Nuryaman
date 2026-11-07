@@ -37,6 +37,6 @@ Git & GitHub Basics: Mengenal perbedaan antara Git sistem kontrol versi lokal da
 Memahami alur kerja Git Working Directory Staging Area Local Repository. Mempraktikkan perintah esensial Git seperti git init, git add, git commit, git remote add, dan git push.
 
 
-##6. Pendapat
+## 6. Pendapat
 
 Membangun Fondasi Karakter dan Profesionalisme: Kegiatan orientasi dan pengenalan kampus seperti PKKMB/PKKP PNJ memiliki peran yang sangat krusial dalam menjembatani transisi mahasiswa baru dari dunia sekolah ke lingkungan pendidikan tinggi vokasi yang menuntut kemandirian, kedisiplinan, dan integritas tinggi.
